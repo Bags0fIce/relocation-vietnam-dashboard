@@ -1,0 +1,8 @@
+.env
+.env.*
+!.env.example
+workspace_records.json
+finance_records.json
+*.dump
+*.sql.gz
+*.age
